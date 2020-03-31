@@ -162,6 +162,7 @@ body {
   position: absolute;
   right: 10%;
   top: 0;
+  max-height: 100%;
 }
 
 .main__item:first-child {
@@ -191,7 +192,6 @@ body {
   .main__item img {
     max-width: 900px;
     right: 18%;
-    max-height: 100%;
   }
   .brand-opacity {
     font-size: 6.8rem;
